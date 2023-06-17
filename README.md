@@ -6,7 +6,7 @@ uj7
 ## User Story
 As a developer, I need a README generator tool so that I can efficiently create professional README files for my new projects.
 
-## Acceptaance Criteria
+## Acceptance Criteria
 - The command-line application should accept user input.
 - The generated README.md should have a high-quality and professional format.
 - The README should include the project title and the following sections:
@@ -61,6 +61,9 @@ If you have any questions or want to get in touch, you can reach me through the 
 
 ## Video Walkthrough
 https://youtu.be/gdT0ZSzguLk
+
+## GitHub Link
+https://github.com/sjhudek/readme-generator
 
 ## Resources / Inspiration
 
