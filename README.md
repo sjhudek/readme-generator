@@ -31,7 +31,8 @@ Follow the prompts.
 ## License
 Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
 
-## Contact
+## Questions
+If you have any questions or want to get in touch, you can reach me through the following channels:
 - GitHub: https://github.com/sjhudek
 - GitHub User Name: sjhudek
 - Email: sjhudek@gmail.com
