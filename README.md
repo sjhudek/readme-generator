@@ -35,3 +35,21 @@ Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yel
 - GitHub: https://github.com/sjhudek
 - GitHub User Name: sjhudek
 - Email: sjhudek@gmail.com
+
+## Resources / Inspiration
+
+- https://www.npmjs.com/package/inquirer
+
+- https://www.youtube.com/watch?v=CfS6eOBe8AY
+
+- https://www.educative.io/answers/how-to-use-the-inquirer-node-package
+
+- https://www.youtube.com/watch?v=Qf5EXOyGRxw
+
+- https://www.youtube.com/watch?v=QFV7jzu8mKw
+
+- https://www.youtube.com/watch?v=OT63ATGrs5I
+
+- https://www.youtube.com/watch?v=QFV7jzu8mKw
+
+- https://www.youtube.com/watch?v=2VUQABoFOqw
