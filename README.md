@@ -1,7 +1,7 @@
 
-# title
+# README.md generator
 
-undefined
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
@@ -14,24 +14,24 @@ undefined
 - [Contact](#contact)
 
 ## Project Description
-project
+This project generates a README.md file base on a user's input.
 
 ## Installation
-install
+Noting to install
 
 ## Usage
-usage
+Just follow the prompts
 
 ## Contribution
-guideline
+The usual guidelines.
 
 ## Test
-test
+Follow the prompts.
 
 ## License
-Licensed under the undefined license.
+Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
 
 ## Contact
-GitHub: githib.com
+GitHub: github.com/sjhudek
 GitHub User Name: sjhudek
 Email: sjhudek@gmail.com
