@@ -131,10 +131,9 @@ inquirer
     ${license}
     
     ## Questions
-    - How to reach me:
-      - GitHub: ${repo}
-      - GitHub User Name: ${username}
-      - Email: ${email}`;
+    If you have any questions or want to get in touch, you can reach me through the following channels:
+    - GitHub: [${username}](${repo})
+    - Email: ${email}`;
 
     const markdownContent = GenerateMarkdown.generateReadme(answers);
 
