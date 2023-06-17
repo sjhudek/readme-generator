@@ -36,6 +36,9 @@ Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yel
 - GitHub User Name: sjhudek
 - Email: sjhudek@gmail.com
 
+## Video Walkthrough
+https://youtu.be/gdT0ZSzguLk
+
 ## Resources / Inspiration
 
 - https://www.npmjs.com/package/inquirer
