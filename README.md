@@ -11,7 +11,7 @@
 - [Contribution](#contribution)
 - [Test](#test)
 - [License](#license)
-- [Contact](#contact)
+- [Questions](#questions)
 
 ## Project Description
 This project generates a README.md file base on a user's input.
