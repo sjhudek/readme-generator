@@ -132,7 +132,6 @@ inquirer
     ${license}
     
     ## Questions
-    ${questions}
     If you have any questions or want to get in touch, you can reach me through the following channels:
     - GitHub: [${username}](${repo})
     - Email: ${email}`;
