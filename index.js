@@ -55,14 +55,11 @@ const questions = [
     name: "license",
     type: "list",
     choices: [
-      "Academic Free License v3.0",
       "Apache License 2.0",
       "Creative Commons License",
       "GNU Affero General Public License v3.0",
       "MIT",
-      "Mozilla Public License 2.0",
-      "Open Software License 3.0",
-      "University of Illinois/NCSA Open Source License",
+      "Mozilla Public License 2.0"
     ],
     validate: (value) => (value ? true : "Please enter a license."),
   },

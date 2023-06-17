@@ -15,10 +15,6 @@ function renderLicenseLink(license) {
   return licenseLinks[license];
 }
 
-// module.exports = { renderLicenseLink };
-
-
-
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function generateLicenseSection(license) {
@@ -42,21 +38,6 @@ module.exports = {
 
 
 // TODO: Create a function to generate markdown for README
-
-const generateMarkdown = require('./generateMarkdown');
-
-const data = {
-  title: 'My Project',
-  description: 'This is a sample project.',
-  installation: 'npm install',
-  usage: 'node index.js',
-  contribution: 'Contributions are welcome.',
-  test: 'npm test',
-  license: 'MIT',
-  repo: 'https://github.com/yourusername/my-project',
-  username: 'yourusername',
-  email: 'youremail@example.com'
-};
 
 const markdownContent = generateMarkdown(data);
 
